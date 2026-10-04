@@ -50,9 +50,7 @@ Mahasiswa **Universitas Negeri Yogyakarta** yang tertarik di dunia **jaringan ko
 
 </div>
 
-### ⚽ Madridista Corner
-- 🏆 Fun fact: 15 trofi Liga Champions
-- 👑 laliga : 34 Trophy
+
 
 ### 📫 Kontak
 <div align="center">
