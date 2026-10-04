@@ -6,7 +6,7 @@
 
 ![Real Madrid](https://img.shields.io/badge/Real%20Madrid-FFFFFF?style=for-the-badge&labelColor=00529F)
 ![Hala Madrid](https://img.shields.io/badge/Hala%20Madrid-FEBE10?style=for-the-badge&labelColor=00529F&label=%E2%9A%BD)
-![Visitors](https://komarev.com/ghpvc/?username=azaganteng&style=for-the-badge&color=00529F&labelColor=FEBE10)
+![Visitors](https://hits.sh/github.com/azaganteng.svg?style=for-the-badge&label=Visitors&color=00529F&labelColor=FEBE10)
 
 </div>
 
