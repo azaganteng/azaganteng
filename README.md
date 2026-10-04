@@ -1,41 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00529F,50:FFFFFF,100:FEBE10&height=200&section=header&text=Hala%20Madrid&fontSize=60&fontColor=0A1128&animation=fadeIn&fontAlignY=38&desc=Aza%20%7C%20Networking%20Enthusiast&descColor=0A1128&descAlignY=58" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBE10,50:FFFFFF,100:00529F&height=100&section=footer" width="100%"/>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="50" viewBox="0 0 600 50">
-  <style>
-    text { font-family: 'Courier New', monospace; font-size: 22px; font-weight: bold; fill: #FEBE10; }
-    .t1 { animation: s1 15s infinite; }
-    .t2 { animation: s2 15s infinite; }
-    .t3 { animation: s3 15s infinite; }
-    .t4 { animation: s4 15s infinite; }
-    .t5 { animation: s5 15s infinite; }
-    @keyframes s1 { 0%,18% {opacity:1} 20%,100% {opacity:0} }
-    @keyframes s2 { 0%,19% {opacity:0} 20%,38% {opacity:1} 40%,100% {opacity:0} }
-    @keyframes s3 { 0%,39% {opacity:0} 40%,58% {opacity:1} 60%,100% {opacity:0} }
-    @keyframes s4 { 0%,59% {opacity:0} 60%,78% {opacity:1} 80%,100% {opacity:0} }
-    @keyframes s5 { 0%,79% {opacity:0} 80%,98% {opacity:1} 100% {opacity:0} }
-  </style>
-  <text class="t1" x="300" y="32" text-anchor="middle">Hala Madrid y nada mas!</text>
-  <text class="t2" x="300" y="32" text-anchor="middle">Informatics Student at UNY</text>
-  <text class="t3" x="300" y="32" text-anchor="middle">Network Administration</text>
-  <text class="t4" x="300" y="32" text-anchor="middle">MikroTik | Cisco | Linux</text>
-  <text class="t5" x="300" y="32" text-anchor="middle">Madridista Forever</text>
-</svg>
 
 <div align="center">
 
-![Madridista](https://img.shields.io/badge/Real%20Madrid-FFFFFF?style=for-the-badge&logo=realmadrid&logoColor=00529F)
+<img src="typing.svg" alt="Typing" />
+
+![Real Madrid](https://img.shields.io/badge/Real%20Madrid-FFFFFF?style=for-the-badge&labelColor=00529F)
 ![Hala Madrid](https://img.shields.io/badge/Hala%20Madrid-FEBE10?style=for-the-badge&labelColor=00529F&label=%E2%9A%BD)
-![Madridista](https://img.shields.io/badge/Madridista-00529F?style=for-the-badge&logoColor=white)
-
-</div>
-
-
-![Visitors](https://komarev.com/ghpvc/?username=azaganteng&style=for-the-badge&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=azaganteng&style=for-the-badge&color=00529F&labelColor=FEBE10)
 
 </div>
 
 ---
+
+### 👋 Tentang Saya
+Mahasiswa **Universitas Negeri Yogyakarta** yang tertarik di dunia **jaringan komputer**: network administration, routing & switching, dan network security.
 
 ### 🛠️ Skills & Tools
 <div align="center">
@@ -60,10 +38,8 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=azaganteng&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=azaganteng&theme=tokyonight&hide_border=true)
-
-
+![Stats](https://github-readme-stats.vercel.app/api?username=azaganteng&show_icons=true&hide_border=true&bg_color=0A1128&title_color=FEBE10&icon_color=FEBE10&text_color=FFFFFF)
+![Streak](https://streak-stats.demolab.com/?user=azaganteng&hide_border=true&background=0A1128&ring=FEBE10&fire=FEBE10&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FEBE10&sideNums=FEBE10&dates=AAAAAA)
 
 </div>
 
@@ -73,6 +49,11 @@
 ![Snake](https://raw.githubusercontent.com/azaganteng/azaganteng/output/github-snake.svg)
 
 </div>
+
+### ⚽ Madridista Corner
+- 🏆 Fun fact: 15 trofi Liga Champions
+- 👑 Pemain favorit: *(isi sendiri)*
+- 🏟️ Mimpi: nonton langsung di Santiago Bernabéu
 
 ### 📫 Kontak
 <div align="center">
@@ -84,4 +65,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBE10,50:FFFFFF,100:00529F&height=100&section=footer" width="100%"/>
