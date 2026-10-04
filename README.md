@@ -12,8 +12,8 @@
 
 ---
 
-### 👋 Tentang Saya
-Mahasiswa **Universitas Negeri Yogyakarta** yang tertarik di dunia **jaringan komputer**: network administration, routing & switching, dan network security.
+### 👋 Me
+Manusia biasa yang tertarik di dunia **jaringan komputer**: network administration, routing & switching, dan network security.
 
 ### 🛠️ Skills & Tools
 <div align="center">
