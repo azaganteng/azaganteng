@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aza+👋;Informatics+Student+@+UNY;Network+Administration+%7C+Routing+%26+Switching;MikroTik+%7C+Cisco+%7C+Linux" alt="Typing SVG" />
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=azaganteng&style=for-the-badge&color=blueviolet)
 
@@ -36,7 +36,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=azaganteng&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://streak-stats.demolab.com/?user=azaganteng&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azaganteng&theme=tokyo-night&hide_border=true)
+
 
 </div>
 
