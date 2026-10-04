@@ -52,8 +52,7 @@ Mahasiswa **Universitas Negeri Yogyakarta** yang tertarik di dunia **jaringan ko
 
 ### ⚽ Madridista Corner
 - 🏆 Fun fact: 15 trofi Liga Champions
-- 👑 Pemain favorit: *(isi sendiri)*
-- 🏟️ Mimpi: nonton langsung di Santiago Bernabéu
+- 👑 laliga : 34 Trophy
 
 ### 📫 Kontak
 <div align="center">
